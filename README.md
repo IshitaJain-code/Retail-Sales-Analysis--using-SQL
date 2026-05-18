@@ -315,28 +315,14 @@ The purpose of this project is to strengthen SQL skills by solving practical bus
 This project is ideal for aspiring Data Analysts who want to demonstrate proficiency in SQL and business analysis.
 
 ---
-
-# 👤 Author
-
-**Ishita**
-
-If you found this project helpful, feel free to star ⭐ the repository and connect with me on [LinkedIn](https://www.linkedin.com/?utm_source=chatgpt.com).
+Connect with me on
+ [LinkedIn] https://www.linkedin.com/in/ishita-jain-5a178a3b0?
 
 ```
 
 ---
 
-## Suggested Repository Name
 
-`retail-sales-sql-analysis`
 
----
 
-## Suggested GitHub Description
 
-**Retail sales analysis using SQL to uncover customer behavior, product performance, and business insights.**
-
----
-
-This is an excellent project to showcase because it demonstrates one of the most important skills for data analyst roles: :contentReference[oaicite:4]{index=4}.
-```
